@@ -2,9 +2,9 @@
 
 PlasmJS Desktop Release is an unofficial off-line installation for the PlasmJS Language, available only for Ubuntu (should work on all Debian release) and Mac OS X.
 
-The project resulted from the need to deploy code off-line during the school course "Computationl Graphics[course]". Also have been introduced some functionality to optimized the code develpment.
+The project resulted from the need to deploy code off-line during the school course "[Computational Graphics]". Also have been introduced some functionality to optimized the code develpment.
 
-For more info about PlasmJS can read here[plasm.js] 
+For more info about PlasmJS can read [here] 
 
 ## Features
 
@@ -19,5 +19,5 @@ The installation is realized by a Bash Scripts' calls concatenation, and offers:
 Select the right foldier according to the computer platform and run "install.sh". If a new PlasmJS version is available run "update.sh".
 
 
-[course]: http://www.dia.uniroma3.it/~paoluzzi/web/did/graficacomp/2014/index.html
-[plasm.js]: https://github.com/cvdlab/plasm.js
+[Computational Graphics]: http://www.dia.uniroma3.it/~paoluzzi/web/did/graficacomp/2014/index.html
+[here]: https://github.com/cvdlab/plasm.js
