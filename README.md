@@ -10,7 +10,7 @@ For more info about PlasmJS can read [here]
 
 The installation is realized by a Bash Scripts' calls concatenation, and offers:
 * **develop in Plasm.js off-line**
-* **custemed APIs' set**: can store a new personlized API into a "Setup.js" file, that will load dinamically every time you run your code
+* **custemed APIs' set**: can store a new personlized API into a "setup.js" file, that will load dinamically every time you run your code. The project contains a personal set of APIs wrote it during the course
 * **integrates withSublime Text 2 and Google Chrome**: provide a personalized build system. You can wrote your code and just press "ctrl" + "b" to run it into a Google Chrome's tab
 * provide a **bash command** to launch the system
 
