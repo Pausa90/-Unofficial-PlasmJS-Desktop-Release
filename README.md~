@@ -15,7 +15,7 @@ The installation is realized by a Bash Scripts' calls concatenation, and offers:
 
 ## Installation
 
-Select the right foldier according to the computer platform and run "install.sh". If a new PlasmJS version is available run "update.sh".
+Select the right installer according to the computer platform and run "install.sh". If a new PlasmJS version is available run "update.sh".
 
 
 [course]: http://www.dia.uniroma3.it/~paoluzzi/web/did/graficacomp/2014/index.html
